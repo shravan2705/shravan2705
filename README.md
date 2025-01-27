@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shravan providding solutions on DevOps/Cloud/AI/Full Stack Development tech stack
+- 👋 Hi, I’m @shravan DevOps/Cloud enthusiast providing Design/Architecture/solutions on DevOps/Cloud/AI/Full Stack Development tech stack
 - 👀 I’m interested in DevOps, Cloud and AI
 - 🌱 I’m currently exploring and doing R&D on GenAI, Machine learning to integrate with DevOps.
 - 💞️ I’m looking to collaborate on DevOps, Cloud and AI
