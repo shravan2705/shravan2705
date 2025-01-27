@@ -11,10 +11,7 @@ I'm a DevOps/Cloud enthusiast with expertise in providing design, architecture, 
 - 📫 **Contact Me:** [shravandevopscloud@gmail.com](mailto:shravandevopscloud@gmail.com)
 - ⚡ **Fun Fact:** Open-source enthusiast who writes code faster than coffee brews... :)
 
-<!---
-shravan2705/shravan2705 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
 ```
 
 
